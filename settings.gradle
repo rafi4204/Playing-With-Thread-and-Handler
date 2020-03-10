@@ -1,0 +1,2 @@
+rootProject.name='Playing With Thread and Handler'
+include ':app'
